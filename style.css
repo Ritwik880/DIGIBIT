@@ -122,7 +122,7 @@
 }
 
 footer {
-  background-image: url(/footer.jpg)
+  background-image: url(/images/footer.jpg)
 }
 
 @media(max-width:576px) {
